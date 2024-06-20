@@ -2,3 +2,4 @@ node_modules/
 cypress/e2e/examples/
 cypress/e2e/auth.cy copy.js
 cypress.env.json
+utils/scan-426113-d524f6e9f673.json
