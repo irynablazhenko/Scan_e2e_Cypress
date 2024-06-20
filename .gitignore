@@ -1,0 +1,4 @@
+node_modules/
+cypress/e2e/examples/
+cypress/e2e/auth.cy copy.js
+cypress.env.json

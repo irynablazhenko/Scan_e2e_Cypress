@@ -1,0 +1,19 @@
+{
+  "name": "scan_e2e_cypress",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.12.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "google-auth-library": "^9.11.0"
+  }
+}
